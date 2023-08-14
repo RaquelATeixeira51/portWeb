@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#contato p {
+    margin: 10px 0;
+}
+
+#educacao ul {
+    list-style: none;
+    padding: 0;
+}
+
+#educacao li {
+    margin-bottom: 5px;
+}
+
+#educacao ul ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+#educacao ul ul li {
+    margin-bottom: 3px;
+}
+
+#experiencia p {
+    margin: 10px 0;
+}
+
+.experiencia-item {
+    margin-bottom: 20px;
+}
+
+.experiencia-item h3 {
+    margin: 0;
+}
+
+.experiencia-item p {
+    margin: 5px 0;
+}
