@@ -64,3 +64,22 @@ a {
 .experiencia-item p {
     margin: 5px 0;
 }
+
+#conhecimentos {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+#conhecimentos h3 {
+    margin: 10px 0;
+}
+
+#conhecimentos ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+#conhecimentos ul li {
+    margin-bottom: 5px;
+}
